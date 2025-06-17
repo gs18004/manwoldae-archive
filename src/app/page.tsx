@@ -15,7 +15,7 @@ function Loader() {
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
-        backgroundColor: "#000",
+        backgroundColor: "#fff",
         borderRadius: "8px",
       }}
     >
